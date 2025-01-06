@@ -1,6 +1,8 @@
 # LioKor Mail Frontend
 
 **Почтовый сервис с веб-интерфейсом**
+![LK mail](https://github.com/user-attachments/assets/b21ad1e8-60f1-419b-a742-606564197055)
+![LK mail 2](https://github.com/user-attachments/assets/0d60bbf8-5710-433c-8d87-2dc5c802bd49)
 
 ### Команда:
 * [Артем Королев](https://github.com/KoroLion)
